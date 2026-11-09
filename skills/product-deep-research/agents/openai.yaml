@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pesquisa de produtos"
+  short_description: "Compare produtos, durabilidade e custo de compra"
+  default_prompt: "Use $product-deep-research para pesquisar produtos para minha compra, comparar alternativas e investigar durabilidade, assistência e custo total."
